@@ -59,3 +59,5 @@
 - `touch system/Util/c.txt`
 - `tree`
 - 이 모든 명령어를 한 번에 실행하면, 주어진 트리 구조를 생성하고 확인할 수 있습니다.
+
+ ![system_0314](https://github.com/gyutae-git/system/blob/main/system/0314/system_0314.png?raw=true)
